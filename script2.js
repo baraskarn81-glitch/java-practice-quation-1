@@ -175,22 +175,22 @@
  // 6 Write a program to evaluate a single input character and classify whether it is a vowel, consonant, numeric
 // digit, or special character.
 
-//let char = A;
-//if (char .length !==1){
-  //     console.log("Please enter only one character.");
-//}
-//else if ( a,e,i,o,u,A,E,I,O,U ===char){
- //     console.log("it is a vovel");
-//}
-//else if((char >="a" && char <="z") || (char >="A" && char <="Z")) {
-  //    console.log("it is constant");
- //}                   
-//else if(char >=0 && char <=9){
-  //    console.log("it is number");
-//}
-//else{
- //     console.log("it is special symbol");
-//}
+// let char = 4;
+// if (char .length !==1){
+//       console.log("Please enter only one character.");
+// }
+// else if ( a,e,i,o,u,A,E,I,O,U ===char){
+//      console.log("it is a vovel");
+// }
+// else if((char >="a" && char <="z") || (char >="A" && char <="Z")) {
+//      console.log("it is constant");
+//  }                   
+// else if(char >=0 && char <=9){
+//      console.log("it is number");
+// }
+// else{
+//       console.log("it is special symbol");
+// }
 
 
 // Multiplication Tables
